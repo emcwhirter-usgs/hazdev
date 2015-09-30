@@ -28,6 +28,9 @@ command line interface globally.
 
 ## Got Feedback
 
+Please create a [GitHub Issue](https://github.com/usgs/hazdev/issues).
+
+
 ## License
 
 This license applies to this project and can be used as a starting point for
