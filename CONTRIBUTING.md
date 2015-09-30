@@ -9,6 +9,15 @@ We encourage you to read this project's CONTRIBUTING policy (you are here), its 
 
 ## Guidelines
 
+### Submitting an issue
+
+When submitting an issue, please describe the feature or error with steps to
+reproduce it, if applicable. Then describe the desired behavior that would
+deem this issue, bug or feature complete. Include images or other notes if they
+will assist in clarifying the request.
+
+[USGS Comment Policy](http://www.usgs.gov/laws/comment_policy.html)
+
 ### Submitting a pull request
 
 Here are a few guidelines to follow when submitting a pull request:

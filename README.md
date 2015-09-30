@@ -13,7 +13,7 @@ includes minification, compilation, unit testing, linting and previewing work
 locally in a browser. Run these commands from the desired project's install
 directory.
 
-Get dependencies
+Get NPM dependencies
 
         npm install
 
